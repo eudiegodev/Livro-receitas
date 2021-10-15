@@ -3,6 +3,5 @@
 Olá, bem vindo! :wave:
 
 - Strogonoff de frango
-
-  
+- Lasanha
 
